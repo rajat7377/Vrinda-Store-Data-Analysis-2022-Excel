@@ -15,7 +15,7 @@ Sample Insights:
 
 -> Women are more likely to buy compared to men(~65%)
 
--> Maharastra,Karnataka and Utter Pradesh are top 3 states (~35%)
+-> Maharastra,Karnataka and Uttar Pradesh are top 3 states (~35%)
 
 -> Adult age group (30-49 years) is max contributing(~50%) 
 
