@@ -19,7 +19,7 @@ Sample Insights:
 
 -> Adult age group (30-49 years) is max contributing(~50%) 
 
--> Amazon, Flipkartand Myntra channels are max contributing(~80%)
+-> Amazon, Flipkart and Myntra channels are max contributing(~80%)
 
 Final Conclusion To Improve Vrinda Store Sales In 2023:
 
